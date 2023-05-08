@@ -1,8 +1,10 @@
 {
 	"repositories": [
 		{
-			"name": "Teste",
-			"description": "Descrição teste."
+			"name": "Dados do portfolio",
+			"description": "Testando api.",
+			"link": "github.com/LuanFabricio/portfolio-data",
+			"tags": [ "Rust", "tokio", "SDL2", "websockets" ]
 		}
 	]
 }
