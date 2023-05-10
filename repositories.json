@@ -4,7 +4,19 @@
 			"name": "Dados do portfolio",
 			"description": "Testando api.",
 			"link": "github.com/LuanFabricio/portfolio-data",
-			"tags": [ "Rust", "tokio", "SDL2", "websockets" ]
-		}
+			"tags": [ "JSON" ]
+		},
+		{
+			"name": "HackerRank C",
+			"description": "Reposiório utilizando para praticar C e algoritmos.",
+			"link": "github.com/LuanFabricio/HackerRankC",
+			"tags": [ "C", "Algoritmos",  ]
+		},
+		{
+			"name": "dotfiles",
+			"description": "Arquivos de configuração do tmux, neovim e vim.",
+			"link": "github.com/LuanFabricio/dotfiles",
+			"tags": [ "NeoVim", "Vim", "Tmux", "Lua" ]
+		},
 	]
 }
