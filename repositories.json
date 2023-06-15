@@ -17,6 +17,12 @@
 			"description": "Arquivos de configuração do tmux, neovim e vim.",
 			"link": "github.com/LuanFabricio/dotfiles",
 			"tags": [ "NeoVim", "Vim", "Tmux", "Lua" ]
+		},
+		{
+			"name": "Rusty Island",
+			"description": "Projeto de computação gráfica implementado em Rust.",
+			"link": "github.com/LuanFabricio/Rusty-Island",
+			"tags": ["Rust", "Computação Gráfica", "OpenGL"]
 		}
 	]
 }
